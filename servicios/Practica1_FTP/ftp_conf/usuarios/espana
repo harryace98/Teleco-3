@@ -1,0 +1,6 @@
+# *** configuracion de usuario españa ***
+
+local_root=/home/vagrant/Repo_git/servicios/Practica1_FTP
+dirlist_enable=YES
+write_enable=YES
+download_enable=YES

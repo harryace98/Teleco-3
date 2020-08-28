@@ -1,0 +1,7 @@
+#configuracion del usuario invitado
+
+local_root=/home/vagrant/Repo_git/servicios/Practica1_FTP/
+dirlist_enable=YES
+download_enable=YES
+write_enable=NO
+

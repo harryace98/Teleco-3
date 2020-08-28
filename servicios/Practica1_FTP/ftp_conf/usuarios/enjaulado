@@ -1,0 +1,7 @@
+#configuracion del usuario enjaulado
+
+local_root=/home/vagrant/Repo_git/servicios/Practica1_FTP/enjaulado
+dirlist_enable=YES
+download_enable=YES
+write_enable=YES
+
