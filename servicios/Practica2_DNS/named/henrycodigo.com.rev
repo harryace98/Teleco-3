@@ -1,0 +1,14 @@
+$ORIGIN 0.168.192.in-addr.arpa.
+$TTL 3H
+@	IN SOA	server.henrycodigo.com. root@henrycodigo.com. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	server.henrycodigo.com.
+;hosts en la zona
+
+3	IN	PTR	server.henrycodigo.com.
+2	IN	PTR	cliente.servicios.com.
+4	IN	PTR	ftp.henrycodigo.com.
