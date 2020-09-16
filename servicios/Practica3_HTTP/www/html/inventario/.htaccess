@@ -1,0 +1,8 @@
+
+Order allow,deny
+Allow from all
+AuthType Basic
+AuthName "directorio de administracion"
+AuthUserFile /etc/httpd/claves
+Require valid-user
+
